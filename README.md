@@ -40,8 +40,7 @@ Milestone-5 :  https://hackathon-milestone-5-1830wiyu6-waleed0248s-projects.verc
 
 
 
-👨‍💻 Authors
-Your Name – @Waleed0248
+👨‍💻 Authors– @Waleed0248
 
 🙌 Final Thoughts
 The Hackathon Milestone-Based Interactive Resume Builder aims to simplify and enhance the resume creation process, offering a modern, efficient, and user-friendly solution for professionals. By leveraging cutting-edge web technologies, this project is designed to meet the needs of users who seek an intuitive and visually appealing resume-building experience. We look forward to future improvements and welcome contributions from the community to further refine and expand its features.
